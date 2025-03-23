@@ -30,3 +30,14 @@ A generative AI-powered solution that delivers hyper-personalized product, servi
 ```bash
 git clone <repo_link>
 cd <repo_folder>
+...
+
+Install python on you machine
+Install below python libraries
+pip install streamlit
+pip install transformers
+pip install openai
+pip install scikit-learn
+pip install xgboost
+pip install torch
+pip install aif360
