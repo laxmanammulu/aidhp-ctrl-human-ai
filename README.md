@@ -30,7 +30,7 @@ A generative AI-powered solution that delivers hyper-personalized product, servi
 ```bash
 git clone <repo_link>
 cd <repo_folder>
-...
+
 
 Install python on you machine
 Install below python libraries
@@ -41,3 +41,7 @@ pip install scikit-learn
 pip install xgboost
 pip install torch
 pip install aif360
+
+Run Python file 
+Point your commend prompt to you github cloned repository
+>streamlit run dapp.py
